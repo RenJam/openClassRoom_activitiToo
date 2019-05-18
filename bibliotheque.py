@@ -4,3 +4,9 @@ class Bibliotheque:
     """"
     def __init__(self):
         pass
+
+    def ajouterUnLivre(self,livre):
+        pass
+
+    def emprunterUnLivre(self):
+        pass        
